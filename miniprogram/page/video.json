@@ -1,0 +1,6 @@
+{
+  "navigationBarTitleText": "美好时光 杨远炜",
+  "usingComponents":{
+    "txv-video":"plugin://tencentvideo/video"
+  }
+}
